@@ -1,0 +1,5 @@
+package com.smf.appbackend.entity;
+
+public class Preference {
+
+}
